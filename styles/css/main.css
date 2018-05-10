@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    direction: ltr;
+    font-family: arial;
+}
+}
+  .header h1{
+
+  }
+
+.header {
+    background: #FED;
+    text-align: center;
+}
+.nav-main li{
+        display: inline-block;
+        margin-right: 1em;
+      }
+
+      .footer {
+    clear: both;
+    text-align: center;
+    background: #BED;
+
+}
+
+.still-image{
+  background:#FFD;
+}
